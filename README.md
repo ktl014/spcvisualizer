@@ -19,6 +19,6 @@ spcpull_spcdata.py - downloads images from the camera system.
 
 ### Next Steps:
 Add in the following functionalities:
-Machine classification
-Machine pose prediction
-Computing pose variability
+- Machine classification
+- Machine pose prediction
+- Computing pose variability
