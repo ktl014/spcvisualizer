@@ -8,9 +8,9 @@ After a year of collecting image data with the SPCBench camera system by ECE und
 Design and implement a modular, real-time visualizer for the SPCBench camera system to improve our data collection methodology. Viewing real-time images will reduce the number of garbage images. Modular code will allow for flexibility when adding functional components in the future.
 
 ### Objectives: 
-Write script that downloads images from the camera in real time
-Modify spconvert.py to run dynamically as new images are coming in
-Display color-converted images over web browser through websockets, such as Flask.
+1. Write script that downloads images from the camera in real time
+2. Modify spconvert.py to run dynamically as new images are coming in
+3. Display color-converted images over web browser through websockets, such as Flask.
 
 ### Resources:
 The following python scripts to help with this project can be found here. A brief description is provided with each script.
